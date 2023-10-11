@@ -2,8 +2,7 @@
 
 # Storage
 
-Storage allows users to preserve, save and archive their data in the cloud. However, in storage we have what hardware is, which are hard drives, solid state drives (SSD), storage drive capacity, 
-volatile and non-volatile storage, RAM, optical drives and flash drives.
+Storage allows users to preserve, save and archive their data in the cloud. However, in storage we have what hardware is, which are hard drives, solid state drives (SSD), storage drive capacity, volatile and non-volatile storage, RAM, optical drives and flash drives.
 
 # Storage Hardware
 They are pieces that are used to store data either for each desktop computer or laptop. tablets and cellphone.
@@ -23,9 +22,9 @@ Based on a disaster that puts the company at risk due to a natural disaster, equ
 Storage are key areas to carefully plan your recovery without any problem.
 
 Fault Tolerance
- Fault tolerance is the idea that a system can continue to run properly even in the event of a failure of a 
-component of that system. The ability to tolerate a failure of a critical component in a system and maintain functionality
-is also referred to as graceful degradation.
+
+Note that failures may be unintentional, either due to a crash in the system, cable or hardware, while if
+This is intentional because it is an unreliable system and looks for a way to access the data and can make the system inoperable.
 
 Replication
 Replication of IT infrastructure and data means that you have a full working duplicate of the data, systems, and networks that are critical.
@@ -41,8 +40,7 @@ intensive use, and a storage solution that allows you to make backup copies and 
 #  Storage in the Cloud
 
 Cloud storage is a cloud computing model that stores data on the Internet through a cloud computing provider who manages 
-and operates data storage as a service. It is also low demand with just-in-time capacity and costs which eliminates the need
-to purchase and manage your own data storage infrastructure, which gives you agility, global scale and durability
+and operates data storage as a service. It is also low demand with just-in-time capacity and costs which eliminates the need to purchase and manage your own data storage infrastructure, which gives you agility, global scale and durability
 where you can access data wherever you want at the time you want.
 
 # Types of Cloud Storage
