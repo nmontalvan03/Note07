@@ -2,8 +2,7 @@
 
 # Storage
 
-Storage es el almacenamiento en donde le permite a los usuarioa conservar, guaradr y archivar sus datos en la nube. 
-However, in storage we have what hardware is, which are hard drives, solid state drives (SSD), storage drive capacity, 
+Storage allows users to preserve, save and archive their data in the cloud. However, in storage we have what hardware is, which are hard drives, solid state drives (SSD), storage drive capacity, 
 volatile and non-volatile storage, RAM, optical drives and flash drives.
 
 # Storage Hardware
@@ -20,7 +19,7 @@ to make decisions about how they will access the files, back them up, and also m
 lost either by a disaster or by other means that compromise decisions in the storage infrastructure.
 
 Disaster Recovery
-based on a disaster that puts the company at risk due to a natural disaster, equipment failure or cyber attack
+Based on a disaster that puts the company at risk due to a natural disaster, equipment failure or cyber attack
 Storage are key areas to carefully plan your recovery without any problem.
 
 Fault Tolerance
